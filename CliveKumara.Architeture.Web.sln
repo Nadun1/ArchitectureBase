@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CliveKumara.Architeture.Web", "CliveKumara.Architeture.Web\CliveKumara.Architeture.Web.csproj", "{451B7CC7-27C8-485B-965B-A31CE03BA1C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CliveKumara.Architeture.DataAccessLayer", "CliveKumara.Architeture.DataAccessLayer\CliveKumara.Architeture.DataAccessLayer.csproj", "{0D640C6F-5E73-4C9F-AD19-EBC2FF3FBBC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CliveKumara.Architeture.DomainModel", "CliveKumara.Architeture.DomainModel\CliveKumara.Architeture.DomainModel.csproj", "{DCADF3A8-27A4-41F5-B768-414437699B85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CliveKumara.Architeture.Service", "CliveKumara.Architeture.Service\CliveKumara.Architeture.Service.csproj", "{8035A82D-E41C-437E-BDAA-41657D35698E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CliveKumara.Architeture.Migrations", "CliveKumara.Architeture.Migrations\CliveKumara.Architeture.Migrations.csproj", "{C1F2AF1C-8CEA-45E5-97D1-EFA6C76831F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{451B7CC7-27C8-485B-965B-A31CE03BA1C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{451B7CC7-27C8-485B-965B-A31CE03BA1C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{451B7CC7-27C8-485B-965B-A31CE03BA1C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{451B7CC7-27C8-485B-965B-A31CE03BA1C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D640C6F-5E73-4C9F-AD19-EBC2FF3FBBC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D640C6F-5E73-4C9F-AD19-EBC2FF3FBBC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D640C6F-5E73-4C9F-AD19-EBC2FF3FBBC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D640C6F-5E73-4C9F-AD19-EBC2FF3FBBC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCADF3A8-27A4-41F5-B768-414437699B85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCADF3A8-27A4-41F5-B768-414437699B85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCADF3A8-27A4-41F5-B768-414437699B85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCADF3A8-27A4-41F5-B768-414437699B85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8035A82D-E41C-437E-BDAA-41657D35698E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8035A82D-E41C-437E-BDAA-41657D35698E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8035A82D-E41C-437E-BDAA-41657D35698E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8035A82D-E41C-437E-BDAA-41657D35698E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1F2AF1C-8CEA-45E5-97D1-EFA6C76831F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1F2AF1C-8CEA-45E5-97D1-EFA6C76831F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1F2AF1C-8CEA-45E5-97D1-EFA6C76831F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1F2AF1C-8CEA-45E5-97D1-EFA6C76831F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

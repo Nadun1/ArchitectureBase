@@ -1,0 +1,16 @@
+﻿@using CliveKumara.Architeture.DomainModel.Model
+@model Course
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@Model.Name</h2>
+
+
+<ul>
+    <li>Price : @Model.FullPrice</li>
+    <li>IsBeginnerCourse : @Model.IsBeginnerCourse? 'Yes': 'No'</li>
+    
+</ul>
+
